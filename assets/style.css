@@ -1,0 +1,91 @@
+:root {
+    --lightGrey: rgb(161, 157, 157);
+    --eggWhite: rgb(255, 252, 252);
+    --outer-space: rgb(46, 46, 75);
+}
+
+header {
+    text-align: center;
+    background: linear-gradient(45deg, rgb(58, 69, 226) , rgb(5, 8, 54));
+    color: var(--eggWhite);
+    padding: 0.5rem;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    
+}
+
+.container {
+    width:100%;
+}
+
+.btn {
+    width: 100%;
+}
+
+.btn-secondary {
+    background-color: var(--lightGrey);
+    color: black;
+}
+
+.form-label {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+form {
+    border-bottom: 4px solid var(--lightGrey);
+    padding-bottom: 1rem;
+}
+
+.city-search {
+    padding: 1rem;
+}
+
+.current-weather-style {
+    border: 2px solid black;
+    margin: 2rem 0;
+    padding: 0.5rem;
+    line-height: 1rem;
+}
+
+.forecast-style {
+    background-color: var(--outer-space);
+    color: var(--eggWhite);
+    margin: 1rem;
+    line-height: 0.75rem;
+    padding: 1rem 1.75rem 1.5rem 1rem;
+    
+}
+
+
+li {
+    list-style: none;
+    margin: 1rem 0 1rem -2rem;
+}
+
+
+/* Ipads, Tablets */
+@media screen and (min-width:480px){
+    
+    h1 {
+    padding-right: 2em;
+    }
+}
+
+
+/* Small screens, laptops */
+@media screen and (min-width:768px){
+    
+    h1 {
+        padding-right: 3em;
+    }
+}
+
+/* Desktops, large screens */
+@media screen and (min-width:1024px){
+    
+    h1 {
+        padding-right: 10em;
+    }
+}
