@@ -4,6 +4,7 @@
 
 ## Description
 
+
 Welcome to the weather dashboard app. Here, you can see the current weather conditions and the weather for the next five days for any city.
 
 Here is a link to the deployed weather app: [weather dashboard](https://samm1911.github.io/06-Server-Side-APIs-Weather-Dashboard/)
