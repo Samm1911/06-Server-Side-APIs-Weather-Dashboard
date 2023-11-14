@@ -17,23 +17,23 @@ N/A
 
 Once you open the app, you are presented with a search city field, which allows you to enter any city you want.
 
-![first]()
+![first](https://github.com/Samm1911/06-Server-Side-APIs-Weather-Dashboard/blob/main/Pix%20/01.png)
 
 After you entered the city, press the search button and you will be presented
 
-![city-search]()
+![city-search](https://github.com/Samm1911/06-Server-Side-APIs-Weather-Dashboard/blob/main/Pix%20/02.png)
 
 with the current weather and forecast for the next five days (weather at 12pm).
 
-![general-weather]()
+![general-weather](https://github.com/Samm1911/06-Server-Side-APIs-Weather-Dashboard/blob/main/Pix%20/03.png)
 
 the specific data is the city name, the date, the current or future temperature, windspeed and humidity as well as an icon that shows you the weather description.
 
-![weather-conditions]()
+![weather-conditions](https://github.com/Samm1911/06-Server-Side-APIs-Weather-Dashboard/blob/main/Pix%20/04.png)
 
 Additionally, you will see under the search button the search history of the recent citys you searched for, which you can click to see the weather for the specific city.
 
-![search-history]()
+![search-history](https://github.com/Samm1911/06-Server-Side-APIs-Weather-Dashboard/blob/main/Pix%20/05.png)
 
 This saves you time, to not enter the same city over and over again.
 
